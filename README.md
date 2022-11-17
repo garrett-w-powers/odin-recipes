@@ -1,1 +1,2 @@
-# odin-recipes
+# "Recipes" Built From the Odin Project
+This is a collection of work done during the Odin project. I don't know what recipes are but I guess I'll find out...
